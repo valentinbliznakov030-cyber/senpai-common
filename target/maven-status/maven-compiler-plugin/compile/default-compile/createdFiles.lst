@@ -1,0 +1,16 @@
+bg\senpai\common\dtos\SubtitlesDownloadedResponseDto$SubtitlesDownloadedResponseDtoBuilder.class
+bg\senpai\common\dtos\VideoCreationResponseDto$VideoCreationResponseDtoBuilder.class
+bg\senpai\common\dtos\AnimeStreamRequestDto$AnimeStreamRequestDtoBuilder.class
+bg\senpai\common\Main.class
+bg\senpai\common\dtos\VideoCreationRequestDto$VideoCreationRequestDtoBuilder.class
+bg\senpai\common\dtos\SubtitlesDownloadRequestDto$SubtitlesDownloadRequestDtoBuilder.class
+bg\senpai\common\dtos\AnimeInfoRequestDto$AnimeInfoRequestDtoBuilder.class
+bg\senpai\common\dtos\AnimeM3U8LinkDto$AnimeM3U8LinkDtoBuilder.class
+bg\senpai\common\dtos\AnimeInfoRequestDto.class
+bg\senpai\common\dtos\SubscriptionStatusDTO.class
+bg\senpai\common\dtos\AnimeStreamRequestDto.class
+bg\senpai\common\dtos\SubtitlesDownloadRequestDto.class
+bg\senpai\common\dtos\AnimeM3U8LinkDto.class
+bg\senpai\common\dtos\VideoCreationRequestDto.class
+bg\senpai\common\dtos\VideoCreationResponseDto.class
+bg\senpai\common\dtos\SubtitlesDownloadedResponseDto.class
