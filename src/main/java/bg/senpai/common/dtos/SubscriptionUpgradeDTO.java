@@ -2,12 +2,14 @@ package bg.senpai.common.dtos;
 
 import lombok.*;
 
+import java.util.UUID;
+
 @Getter
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class SubtitlesDownloadRequestDto {
-    private String subtitleUrl;
-    private String subtitleName;
+public class SubscriptionUpgradeDTO {
+    private UUID userId;
+    private String newPlan;
 }

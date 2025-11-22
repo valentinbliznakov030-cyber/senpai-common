@@ -1,5 +1,6 @@
 package bg.senpai.common.dtos;
 
+
 import lombok.*;
 
 @Getter
@@ -7,7 +8,9 @@ import lombok.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class SubtitlesDownloadRequestDto {
-    private String subtitleUrl;
+public class TranslateSubtitleResponseDto {
+    private boolean success;
+    private String statusCode;
+    private String message;
     private String subtitleName;
 }
