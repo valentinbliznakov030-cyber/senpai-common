@@ -12,7 +12,6 @@ import lombok.NoArgsConstructor;
 @Builder
 public class AnimeInfoRequestDto {
     private String animeTitle;
-    private int episodeNumber;
-    private String m3u8Link;
+    private String hiAnimeId;
 }
 

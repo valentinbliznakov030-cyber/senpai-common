@@ -7,7 +7,6 @@ import lombok.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class SubtitlesDownloadRequestDto {
+public class SubtitlesDownloadRequestDTO {
     private String subtitleUrl;
-    private String subtitleName;
 }
